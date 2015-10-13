@@ -1,0 +1,16 @@
+i	abc
+i	aaa
+p
+i	ccc
+i	bbb
+p
+r	abc
+p
+r	ccc
+p
+r	xxx
+p
+r	aaa
+p
+r	bbb
+p
