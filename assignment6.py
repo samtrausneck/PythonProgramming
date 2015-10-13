@@ -3,7 +3,6 @@
 # id: strausneck2013
 # lab: 06
 
-###helllo
 
 class Node:
     def __init__(self, data=None, next_node=None):
